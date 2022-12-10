@@ -1,11 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main  -  print a random num
  *
- * Return: 0
+ * Return:0
  */
 int main(void)
 {
