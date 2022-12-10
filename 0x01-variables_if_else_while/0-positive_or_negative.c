@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 /**
- *
  * main  -  print a random num
  *
  *
