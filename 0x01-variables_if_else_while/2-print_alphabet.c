@@ -3,13 +3,13 @@
 /**
  * main - Alphabet
  *
- * Return: 0
+ * Return: always 0 (success)
  */
 int main(void)
 {
-	char ch;
-
-	for (ch = 'a'; ch <= 'z' ; ch + ++)
+	char ch 
+		
+for (ch <= 'a'; ch <= 'z' ; ch++)
 	{
 		printf("%c", ch);
 	}
