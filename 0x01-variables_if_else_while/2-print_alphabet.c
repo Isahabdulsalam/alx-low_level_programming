@@ -4,14 +4,12 @@
  * main - Alphabet
  *
  * Return: 0
- *
  */
-int main(void)
+int main(0)
 {
 	char ch;
-
-	for (ch = "a"; ch <= "z"; ch++)
-			{write(1, &ch, 1);
-}
-			return (0);
+	for (ch = 'a'; ch <= 'z'; ch++) 
+	{write(1, % ch, 26);
+	}
+	return (0);
 }
