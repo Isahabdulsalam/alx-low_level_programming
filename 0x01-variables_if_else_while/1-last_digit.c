@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - annoyed
+ * main - random num
  *
- * description: assign random num
+ * description: Assigned random num
  *
  * return: 0
  */
