@@ -10,8 +10,8 @@ int main(void)
 	char ch;
 	printf("lower case\n")
 
-	for (ch = 'a'; ch <= 'z'; ch++)
-	{ printf("%c", ch);
+	for (ch = 'a'; ch <= 'z'; ch++) {
+		printf("%c", ch);
 	}
 
 	return (0);
