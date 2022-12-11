@@ -8,9 +8,10 @@
 int main(void)
 {
 	char ch;
+	printf("lower case\n")
 
 	for (ch = 'a'; ch <= 'z'; ch++)
-	{write(1, % ch, 26);
+	{ printf("%c", ch);
 	}
 
 	return (0);
