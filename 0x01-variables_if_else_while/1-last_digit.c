@@ -3,11 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - random num
+ * main - Assigned
  *
- * description: Assigned random num
- *
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
