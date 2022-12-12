@@ -7,9 +7,9 @@
  */
 int main(void)
 {
-char low;
-for (low = 'a'; low <= 'z'; low++)
-putchar(low);
+char y;
+for (y = 'a'; y <= 'z'; y++)
+putchar(y);
 putchar ('\n');
 return (0);
 }
