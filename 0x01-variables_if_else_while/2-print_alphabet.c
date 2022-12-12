@@ -8,6 +8,7 @@
 int main(void)
 {
 	char ch
+		printf("Lower case alphabet\n");
 
 		for (ch = 'a'; ch <= 'z' ; ch++)
 	{
