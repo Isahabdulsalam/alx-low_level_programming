@@ -21,16 +21,16 @@ int main(void)
 
 			if (i != 89)
 			{
-	
+
 				putchar(',');
 				putchar(' ');
 			}
 		}
 		++i;
 	}
-	
+
 	putchar('\n');
-	
+
 	return (0);
 
 }
