@@ -1,25 +1,25 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 /**
- * main - Prints all possible combinations of single-digit numbers.
+ * main - prints all single number of base 10ase
  *
- * Return: Always 0.
+ * Return: 0
  */
 int main(void)
 {
-	int i;
+	int c = 0;
 
-	for (i = 0; i <= 9; i++)
+	while (c < 10)
 	{
-		putchar((i % 10) + '0');
-		if (i == 9)
-			continue;
-		
-		putchar(',');
-		putchar(' ');
+		putchar(48 + c);
+		if (c != 9)
+		{
+			putchar(',');
+			putchar(' ');
+		}
+		c++;
 	}
 
 	putchar('\n');
-
 	return (0);
 }
