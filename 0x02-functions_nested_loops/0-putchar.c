@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <0-putchar.c.h>
 #include <ISAH.h>
 
 /**
@@ -11,6 +11,7 @@ int main(void)
 	_putchar('I');
 	_putchar('S');
 	_purchar('A');
+	_putchar('H');
 	_putchar('\n');
 
 	return (0);
