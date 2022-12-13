@@ -1,4 +1,4 @@
-#include <ISAH.h>
+#include <stdio.h>
 
 /**
  * main - print ISAH followed by new line
@@ -7,11 +7,8 @@
  */
 int main(void)
 {
-	_putchar('I');
-	_putchar('S');
-	_purchar('A');
-	_putchar('H');
-	_putchar('\n');
+	write
+		("_putchar\n")
 
 	return (0);
 }
