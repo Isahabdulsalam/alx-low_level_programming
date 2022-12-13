@@ -21,6 +21,7 @@ int main(void)
 
 			if (i != 89)
 			{
+	
 				putchar(',');
 				putchar(' ');
 			}
@@ -31,4 +32,5 @@ int main(void)
 	putchar('\n');
 	
 	return (0);
+
 }
