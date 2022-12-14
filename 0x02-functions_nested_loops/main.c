@@ -1,8 +1,8 @@
-#ifndef ISAH.H
-#define ISAH.H
+#ifndef MAIN.H
+#define MAIN.H
 
 /*
- * File: Isah.h
+ * File: main.h
  * Auth: Isah Abdulsalam
  * Desc: Header file containing declarations for all functions
  *       used in the 0x02-functions_nested_loops directory.
@@ -22,4 +22,4 @@ int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
 
-#endif
+#endif /* MAIN.H */
