@@ -1,4 +1,4 @@
-#ifndef MAIN.H
+#ifndef MAIN_H
 #define MAIN.H
 
 /*
@@ -22,4 +22,4 @@ int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
 
-#endif /* MAIN.H */
+#endif
