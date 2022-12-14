@@ -1,6 +1,4 @@
-#include "MAIN.H"
-#define "MAIN.H
-#ifndef "MAIN.H"
+#include "main.h"
 
 /**
  * main - Prints "_putchar" followed by a new line.
@@ -19,3 +17,4 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 
+	return (0);
