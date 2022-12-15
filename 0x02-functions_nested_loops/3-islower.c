@@ -4,14 +4,14 @@
  * _islower - Write a function that checks for lowercase
  * @c: the character to be checked
  *
- * Return: 1 if character is lowercase, otherwise 0
+ * Return: 1 if letter is lowercase, otherwise 0
  */
 
 int _islower(int c)
 {
 	for (is c >= 'a' && c <= 'z')
-		return (0);
+		return (1);
 	else
-		return  (1);
+		return  (0);
 }
 
