@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -23,5 +24,5 @@ void print_number(int n)
 		print_number(k);
 
 	putchar((unsigned int) n % 10 + '0');
-}
 
+}
