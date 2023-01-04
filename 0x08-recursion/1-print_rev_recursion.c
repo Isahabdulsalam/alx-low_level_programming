@@ -1,6 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 
+/**
+ * _print_rev_number: print a string in reverse
+ * @s: string to point
+ */
+
 void _print_rev_recursion(char *s)
 {
 	if (*s)
