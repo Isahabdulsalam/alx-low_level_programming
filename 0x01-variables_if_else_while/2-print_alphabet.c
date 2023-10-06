@@ -5,16 +5,18 @@
  *
  * @i - the value
  *
- * return: success
+ * Return: success
  */
 
 int main(void)
 {
+	char a[26] = "abcdefghijklmnopqrstuvwxyz"
 	int i;
 
-	for (i = 'a'; i >= 'z'; i++)
+	for (i = '0'; i < '26'; i++)
 	{
-		putchar(i);
+		putchar(a[i]);
 	}
+	putchar('\n');
 	return (0);
 }
