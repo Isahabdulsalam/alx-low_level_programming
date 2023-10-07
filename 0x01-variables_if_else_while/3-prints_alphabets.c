@@ -15,7 +15,8 @@ int main(void)
 
 	for (b = 0; b < 52; b++)
 	{
-		putchar(b[a]);
+		putchar(aI[b]);
 	}
 	putchar('\n');
 	return (0);
+}
