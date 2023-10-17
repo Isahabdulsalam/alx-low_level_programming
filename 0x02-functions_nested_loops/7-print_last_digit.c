@@ -5,7 +5,7 @@ int print_last_digit(int i)
 
 	if ((i % 10) == 0)
 	{
-		putchar(i);
+		putchar('i');
 	}
 	return (1);
 }
