@@ -3,7 +3,7 @@
 /**
  * print_sign - function to print symbols
  *
- * @s: character
+ * @n: character
  *
  * Return: symbols
  */
