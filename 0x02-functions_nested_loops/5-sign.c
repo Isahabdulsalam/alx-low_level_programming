@@ -3,8 +3,9 @@
 /**
  * print_sign - function to print symbols
  *
- * return: symbols
+ * @s: character
  *
+ * Return: symbols
  */
 int print_sign(int n)
 {
