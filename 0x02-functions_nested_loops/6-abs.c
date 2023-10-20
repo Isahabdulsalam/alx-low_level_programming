@@ -8,6 +8,6 @@ int _abs(int a)
 	}
 	else
 	{
-		return (0);
+		return (-1);
 	}
 }
