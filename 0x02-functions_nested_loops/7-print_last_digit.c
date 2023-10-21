@@ -3,9 +3,9 @@
 int print_last_digit(int i)
 {
 
-	if ((i % 10) == 0)
+	if (i % 10)
 	{
-		putchar('i');
+		_putchar(i);
 	}
-	return (1);
+	return (0);
 }
