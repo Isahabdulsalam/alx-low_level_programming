@@ -1,8 +1,10 @@
 #include "main.h"
 
+/**
+ * mul - function to multiply a and b
+ */
+
 int mul(int a, int b)
 {
-	int c;
-
-	c = a * b;
+	return a * b;
 }
