@@ -4,7 +4,7 @@
 /**
  * main - entry point
  * @argc: number of argument
- * @argv: nuumber of array 
+ * @argv: nuumber of array
  * Return: success
  */
 
