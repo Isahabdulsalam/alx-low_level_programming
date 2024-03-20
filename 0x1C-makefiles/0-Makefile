@@ -1,0 +1,6 @@
+#Makefile frr building school executable
+
+#rule to build
+
+all:
+	gcc main.c school.c m.h -o school
